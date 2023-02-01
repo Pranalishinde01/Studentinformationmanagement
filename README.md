@@ -1,1 +1,1 @@
-# Studentinformationmanagement
+# Student Information Management
